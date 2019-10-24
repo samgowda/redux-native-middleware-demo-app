@@ -2,7 +2,7 @@
 
 ## Summary
 
-I built this demo web app to showcase the simplicity of the native Redux middleware which many devs who use Redux aren't even aware exists. Redux middleware provides a third-party extension point between dispatching an action, and the moment it reaches the reducer. You can use it for logging, crash reporting, talking to an asynchronous API, routing, etc.
+I built this demo web app to showcase the simplicity of the native [Redux middleware](https://redux.js.org/advanced/middleware) which many devs who use Redux aren't even aware exists. Redux middleware provides a third-party extension point between dispatching an action, and the moment it reaches the reducer. You can use it for logging, crash reporting, talking to an asynchronous API, routing, etc.
 
 App is prototype of a GIF search engine with following features:
 1. The app serves a page consisting of a simple form with a text field and a button.
